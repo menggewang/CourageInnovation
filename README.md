@@ -1,6 +1,5 @@
 # CourageInnovation
 <pre>
-大学生创新项目管理
 项目名称：大学生创新项目 管理系统
 技术支持：HTML、CSS、Javascript
 开发工具：Dreamweaver
